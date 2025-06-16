@@ -49,7 +49,7 @@ Go to Vercel.com → Import Project → Select your repo.
 
 Deploy it — you're live!
 
-📁 Optional: Environment Variables
+## 📁 Optional: Environment Variables
 If you're using a paid API plan:
 
 Go to Vercel → Project Settings → Environment Variables
@@ -61,8 +61,8 @@ Update your code to reference the environment variable (e.g., with a bundler or 
 
 Not required for free-tier use.
 
-📜 License
+## 📜 License
 This project is open-source and free to use for educational or personal purposes.
 
-✨ Author
+## ✨ Author
 Deepak Kumar Bansal
